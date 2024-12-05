@@ -12,6 +12,10 @@ open in any terminal.
 npm start
 ```
 
+## Usage Example
+
+https://drive.google.com/file/d/1WRQWcd2fAlOqUotAFJsMgH6ms12jFqWW/view?usp=sharing
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
