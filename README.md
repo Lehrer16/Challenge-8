@@ -1,4 +1,4 @@
-# Challenge-8
+# Vehicle Builder
 
 Challenge-8 is a typescript program that emulates a vehicle builder and driver.
 
